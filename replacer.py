@@ -24,6 +24,7 @@ def in_page_replacer(page):
     wg_file_content = wg_file_content.replace('Wisegazette', lover_nospace_site_name)
     wg_file_content = wg_file_content.replace('WISEGAZETTE', upper_nospace_site_name)
     wg_file_content = wg_file_content.replace('WISE GAZETTE', upper_site_name)
+    wg_file_content = wg_file_content.replace('  ', ' ')
 
     new_file = open(new_file_path, 'w')
     new_file.write(f'{page}\n')
@@ -33,6 +34,7 @@ in_page_replacer('Contact Us')
 in_page_replacer('About Us')
 in_page_replacer('Privacy Policy')
 in_page_replacer('Terms Of Conditions')
+in_page_replacer('Footer')
 
 print('\ndone')
 

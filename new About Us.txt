@@ -1,6 +1,6 @@
 About Us
 <!-- wp:heading {"level":3} -->
-<h3>Keen Motorists provides free content and ideas about nutrition, sport, health, and general wellness.</h3>
+<h3>Kook Kik Kek provides free content and ideas about nutrition, sport, health, and general wellness.</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -8,5 +8,5 @@ About Us
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>You’re welcome to sign up for our free newsletter, keenmotorists.com at any time.</li><li>As soon as you sign up, you’ll start receiving weekly updates and commentary from keenmotorists.com</li><li>We welcome feedback from our readers, however our experts cannot directly provide anyone with personalized health advice.</li><li>We are constantly on the lookout for special opportunities for our readers and will share them in the form of videos, promotions and reports. You are never under any obligation to buy anything.</li><li>Should you ever wish to discontinue your subscription, please find the “Unsubscribe” link at the bottom. Simply click on it and your name will be removed from our subscription list immediately.</li><li>&nbsp;We promise to never charge our readers for <a href="http://keenmotorists.com" data-type="URL" data-id="keenmotorists.com">keenmotorists.com</a>&nbsp;and always provide the most ground-breaking and powerful ideas. Enjoy!</li></ol>
+<ol><li>You’re welcome to sign up for our free newsletter, kookkikkek.com at any time.</li><li>As soon as you sign up, you’ll start receiving weekly updates and commentary from kookkikkek.com</li><li>We welcome feedback from our readers, however our experts cannot directly provide anyone with personalized health advice.</li><li>We are constantly on the lookout for special opportunities for our readers and will share them in the form of videos, promotions and reports. You are never under any obligation to buy anything.</li><li>Should you ever wish to discontinue your subscription, please find the “Unsubscribe” link at the bottom. Simply click on it and your name will be removed from our subscription list immediately.</li><li>&nbsp;We promise to never charge our readers for <a href="http://kookkikkek.com" data-type="URL" data-id="kookkikkek.com">kookkikkek.com</a>&nbsp;and always provide the most ground-breaking and powerful ideas. Enjoy!</li></ol>
 <!-- /wp:list -->
