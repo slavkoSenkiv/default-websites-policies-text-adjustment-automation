@@ -1,0 +1,287 @@
+<!-- wp:paragraph -->
+<p>This site mission is to bring you and your family real resources and up-to-date information every day. On a daily basis The Team’s best efforts are applied to finding the most useful resources and information that offer the most Value to our members. We accomplish this by creating relationships with independent, outside resources, which we hope will help you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This site is owned and operated by a private, non-government, entity. Your privacy on the Internet is of the utmost importance to us. At this site, we want to make your experience online satisfying and safe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Because we gather certain types of information about our users, we feel you should fully understand our privacy policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1. The information we collect about you</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your privacy is extremely important to you, to us, and the entire <a href="http://Wisegazette.com" data-type="URL" data-id="Wisegazette.com">Wisegazette.com</a> community. We encourage you to read our Privacy Policy for a fully transparent look at how we collect, use, communicate, disclose, and otherwise make use of personal information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1.1 Information you give us</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is information about you that you give us directly when you interact with us..</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li><strong>Signing Up for Content Delivered via Email:</strong>&nbsp;When you sign up for a report or other content delivered by email, we will ask for your email address. We may also ask for your name as well as capturing your IP address.</li><li><strong>Other Services:</strong>&nbsp;We may also ask for additional information when providing special, personalized services. If you don’t want to provide the information requested, you certainly don’t have to, but you will not be able to take advantage of such offerings. For example, if we launch a text alert feature, we wouldn’t be able to send you any alerts unless you provide us with your mobile number. On occasion, we may also ask you for other personal information in connection with surveys or other promotional offers running on our site but again, your participation in these features is purely voluntary.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>1.2 Information we collect about you from using our site:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>While on our site, we automatically log certain information about how you’re using our site. This information may include the URL that you just came from, your IP address (or a partially anonymised IP address) and the pages you visit while on our site.</li><li>We may place a pixel on pages on our site, or those of our advertisers and partners. This enables us to record in our server logs that a specific user ID has visited a particular page. This data allows us to analyse and determine our audience’s behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>1.3 Information we receive from other sources:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We allow our partners to collect certain information when you visit our site. They may utilize cookies, pixels, beacons, or other technologies to collect and use information about you during your visit to this and other websites in order to provide advertisements they feel you would like.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To learn more about this behavioural advertising, including information on how to opt-out, please visit the websites of the Digital Advertising Alliance, at&nbsp;<a href="http://www.aboutads.info/">www.aboutads.info</a>, the Networking Advertising Initiative at&nbsp;<a href="https://www.networkadvertising.org/choices/">www.networkadvertising.org/choices/</a>&nbsp;and the Information&nbsp; Commissioner’s Office,&nbsp;<a href="https://ico.org.uk/for-the-public/online/cookies/">https://ico.org.uk/for-the-public/online/cookies/</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>2. The legal bases we rely on</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The law on data protection sets out&nbsp;a number of different reasons for which we may collect and process your personal data in certain circumstances, including:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>2.1 Consent</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We can collect and process your data with your consent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>For example, if you have given your consent to receiving marketing material from us at the point we collected your information.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>2.2 Contractual obligations</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We need your personal data to comply with our contractual obligations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>For example, where you have provided us with your email address to receive our services, we will use this information in order to effectively deliver and communicate our services.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>2.3 Legal compliance</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the law requires us to, we may need to collect and process your data.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>For example, we can pass on details of people involved in fraud or other criminal activity to applicable law enforcement.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>2.4 Legitimate interest</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We may require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>For example, it is in our legitimate interests to ensure that content from our site is presented in the most effective manner for you and your computer and we provide you with the information, products and services that you request from us.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>3. How we use your information</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We will use this information in our legitimate interests, where we have considered these are not overridden by your rights:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.</li><li>To keep our site safe and secure.</li><li>For measuring or understanding the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.</li><li>To keep you informed about products and services similar to the ones you subscribe to.</li><li>To improve our site to ensure that content is presented in the most effective manner for you and for your computer.</li><li>To allow you to participate in interactive features of our service, when you choose to do so.</li><li>Internal research: Cookies (which are discussed further below) and the other information we automatically track, are used to help us better understand how our audience uses our site as well as for internal research on users’ demographics and interests.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>SHARING OF INFORMATION</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you choose to opt in to a benefit, an ad or an offer supplied by an affiliate or third party, we will transfer nonpublic personally identifiable information you have provided to us, including information on the request form, to that party with your authorization.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition, we will share nonpublic personally identifiable information you have provided to us, including on request forms for offers or quotations, with other unaffiliated third parties that offer products or services that may be of interest to you. You have the right to opt out of the disclosure of nonpublic personally identifiable information about you to nonaffiliated third parties by following the OPT-OUT procedure described below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Among the categories of nonpublic personally identifiable information we may share with affiliates and nonaffiliated third parties are your:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>First and last name</li><li>Street address, including city, state and zip code</li><li>Email addresses</li><li>Telephone numbers</li><li>Date of birth</li><li>Gender</li><li>Answers provided in our survey/registration forms</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>We may share such information with unaffiliated third party marketing companies that present consumer offers relating to products or services you may be interested in for health and wellness companies, retailers, companies offering discounted products and/or services, sweepstakes companies and companies presenting opportunities to participate in surveys, among others.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>OPT-OUT POLICY</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We give users options wherever necessary and practical. Such choices include:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Opting not to register for our website or to receive our electronic newsletters or emails.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"start":2} -->
+<ol start="2"><li>Opting not to participate in certain interactive areas, such as message boards, forums, surveys and polls.</li><li>Opting not to request to participate in a benefit, an ad or an offer supplied by an affiliate or third party.</li><li>Opting out at any time from having your nonpublic personally identifiable information shared with any unaffiliated third parties by:</li><li>a) changing your privacy preferences by sending us an email</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>4. Our promotional updates and communications</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Where permitted by one of the legal bases above, we will use your personal information for marketing analysis and to provide you with promotional update communications by email about our products/services and those of our business partners.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>5. Where your information is stored</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The data that we collect from you is transferred to, and may be stored at, a destination outside the European Economic Area (“EEA”) that is not subject to equivalent Data Protection Law.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We may transfer your personal information outside the EEA:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>In order to store it.</li><li>In order to enable us to provide goods or services to you and fulfil our contract with you. This includes order fulfilment, processing of payment details, and the provision of support services.</li><li>Where we are legally required to do so.</li><li>In order to facilitate the operation of our group of businesses, where it is in our legitimate interests and we have concluded these are not overridden by your rights.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Where your information is transferred outside the EEA, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism, and that it is treated securely and in accordance with this privacy policy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>6. How long we keep your information</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We retain personal data for as long as necessary to fulfil any legal obligations we may have as well as for purposes of processing your information (for example, if you continue to subscribe to one of our services, we will need your information to deliver the service to you). We may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. You cannot be identified from aggregate information retained or used for these purposes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>7. Cookies and other technologies</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cookies contain bits of data that websites such as ours place on your computer’s hard drive for record keeping purposes. Cookies can make the internet more useful by collecting and storing information about your preferences on a particular site and help websites operate more efficiently. Cookies and similar technologies enable you to be remembered when using that computer or device to interact with websites and online services and can be used to manage a range of features and content as well as storing searches and presenting personalised content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We use our cookies:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>With the aim of optimising our website and improving member experience. Cookies help us estimate our audience size, determine usage patterns and help us better target content and advertisements based on our users’ interests.</li><li>We also use cookies so you can, for example, access any premium content that you have subscribed to.</li><li>You have the option of not accepting the cookies we set. However, if you reject our cookies, you will not be able to take advantage of most of the features on our site, including subscription-based services.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>8. Cookie Removal and More Information</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>You can always modify your browser so as not to accept cookies or to notify you when cookies are sentto it. For more information about cookies, including removing any or all of your cookies, please visit&nbsp;<a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org</a>.</li><li>Also, if you would like to remove the Google Analytics and DoubleClick cookies, please go to&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>&nbsp;and&nbsp;<a href="https://www.google.com/ads/preferences/plugin/">http://www.google.com/ads/preferences/plugin/</a>, respectively. You should be aware that this will affect your Google cookies on all sites, and not just ours.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>9. Security</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We are committed to protecting your personal information. All information that you provide to us is stored on our secure servers. Access to paid-for areas of the site, such as our newsletter services is password-protected for your privacy and security. While we do our best to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. What does all this mean? Just as in the investing world, you must protect yourself. You are responsible for maintaining the secrecy of your passwords and/or any account information. If you need to change your password,&nbsp;please follow the steps outlined below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our site may, from time to time, contain links to external sites. We are not responsible for the privacy policies or the content of such sites.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>10. Changes to this Privacy and Cookie Statement</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We may amend this Privacy and Cookie Statement from time to time. If we make any substantive changes to this policy, we’ll announce it on our site and notify you by email.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>16. Your rights</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>You have the right under certain circumstances:<ol><li>to be provided with a copy of your personal data held by us;</li><li>to request the rectification or erasure of your personal data held by us;</li><li>to request that we restrict the processing of your personal data (while we verify or investigate your concerns with this information, for example);</li><li>to object to the further processing of your personal data, including the right to object to marketing (as mentioned in ‘our promotional updates and communications’ section);</li><li>to request that your provided personal data be moved to a third party.</li></ol></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Your right to withdraw consent:&nbsp;Where the processing of your personal information by us is based on consent, you have the right to withdraw that consent without detriment at any time by contacting us. You can also change your marketing preferences at any time as described in ‘our promotional updates and communications’ section.</li><li>You can also exercise the rights listed above at any time by contacting the Data Protection Officer.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>17.</strong>&nbsp;<strong>Information Use</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We have a strict anti-spam policy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Any e-mail you send to&nbsp;wisegazette.com&nbsp;is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify information you have already given us.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We require that all emails promoting wisegazette.com&nbsp;be sent only to clients who have agreed to receive such messages.&nbsp;Occasionally, we grant trusted partners access to your information to provide further opportunities we believe are beneficial.&nbsp;We only make these arrangements or transfers where we are satisfied that adequate levels of quality and protection are in place to protect your best interests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you feel you’ve been sent unsolicited emails promoting our brand or website, please email us at&nbsp; support@wisegazette.com &nbsp;We will immediately investigate all complaints related to unsolicited messages.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We take measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to protect against unauthorized access to systems where we store personal data.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We restrict our data access to our employees, contractors, trusted partners, and agents who use this information to operate, develop, promote and improve services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution if they fail to meet them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you have any other questions, please contact us at support@wisegazette.com </p>
+<!-- /wp:paragraph -->

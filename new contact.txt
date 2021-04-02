@@ -1,0 +1,12 @@
+Contact Us
+<!-- wp:paragraph -->
+<p>We welcome any positive suggestion and constructive opinion from our site visitors. Get in touch with our team:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Help &amp; Support</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>support@cookabook.com</p>
+<!-- /wp:paragraph -->

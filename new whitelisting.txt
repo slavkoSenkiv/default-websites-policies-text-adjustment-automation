@@ -1,167 +1,408 @@
-<!--  wp:paragraph  -->
-<p>The  following  Terms  and  Conditions  govern  the  use  of  usapatriotglobal.com  and  are  in  place  to  protect  everyone  who  uses  the  website.  USA  Patriot  Global  has  the  right  to  revise  and  update  these  Terms  and  Conditions  at  any  time  without  prior  notification;  therefore,  you  should  visit  this  page  periodically  to  review  these  Terms  of  Use  including  the  Terms  of  Use  and  Privacy  Policy  of  our  owner  USA  Patriot  Global.</p>
-<!--  /wp:paragraph  -->
+Email Whitelisting
+<!-- wp:heading {"level":1} -->
+<h1><strong>How To Whitelist Emails On Gmail, Yahoo, Apple Mail, Outlook &amp; More</strong></h1>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p><strong>INTRODUCTION</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":122} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/Whitelist.jpg" alt="" class="wp-image-122"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>Your  access  to  and  use  of  Website  are  conditioned  on  your  full  acceptance  and  compliance  with  these  Terms  and  Conditions  and  this  Website  Privacy  Policy,  which  are  published  at  usapatriotglobal.com  and  which  are  incorporated  herein  by  reference  (“Privacy  Policy”).  These  Terms  and  Conditions  and  Privacy  Policy  are  applied  to  all  visitors,  users  and  others  who  access  or  use  this  Website.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>Belwo we are going to show exactly how to whitelist emails so they don’t get sent to spam.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>By  accessing  or  using  this  Website,  you  agree  to  be  bound  by  these  Terms  and  Conditions  and  Privacy  Policy.  If  you  disagree  with  these  Terms  and  Conditions  and/or  Privacy  Policy  or  any  part  of  them,  you  must  not  use  this  Website.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>We’re going to show you how to do it on ALL major email apps.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>Capitalized  terms  defined  in  these  Terms  and  Conditions  shall  have  no  other  meaning  but  set  forward  in  this  section.  The  following  terminology  is  applied  to  these  Terms  and  Conditions,  Privacy  Policy:  “Client”,  “You”  and  “Your”  refers  to  you,  the  person  accessing  this  Website  and  accepting  these  Terms  and  Conditions.  “We”,  “Us”  and  “Ourselves”  refers  to  usapatriotglobal.comwebsite.  Any  use  of  the  above  terminology  or  other  words  in  the  singular,  plural,  capitalization  and/or  he/she  or  they,  are  taken  as  interchangeable  and  therefore  as  referring  to  same.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>Choose email app you use below for detailed instructions on how to whitelist using that app.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p><strong>Editorial  Content</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>Pro tip: Link your email subscribers to this page in your welcome email (or on your email sign up thank you page) to make it easy for them to whitelist your emails.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>The  contents  of  the  Services,  such  as  text,  graphics,  images,  information  obtained  from  usapatriotglobal’s  licensors,  and  other  material&nbsp;  contained  on  the  website,  newsletter,  and  products  (“Content”)  are  for  informational  purposes  only.  The  Content  and  Services  are  not  intended  to  be  a  substitute  for  professional  medical  advice,  diagnosis,  or  treatment.  Always  seek  the  advice  of  your  physician  or  other  qualified  health  provider  with  any  questions  you  may  have  regarding  a  medical  condition.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>Pro tip: Link your email subscribers to this page in your welcome email (or on your email sign up thank you page) to make it easy for them to whitelist your emails.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>If  you  think  you  may  have  a  medical  emergency,  call  your  doctor  or  911  immediately.  usapatriotglobal.com  does  not  recommend  or  endorse  any  specific  tests,  physicians,  products,  procedures,  opinions,  or  other  information  that  may  be  mentioned  on  the  Content  or  Services.  Reliance  on  any  information  provided  by  USA  Patriot  Global,  USA  Patriot  Global  employees,  others  appearing  in  the  Content  or  on  the  Services  at  the  invitation  of  USA  Patriot  Global,  or  other  visitors  to  the  Services  is  solely  at  your  own  risk.  The  Content  and  Services  may  contain  health-  or  medical-related  materials  that  are  sexually  explicit.  If  you  find  these  materials  offensive,  you  may  not  want  to  use  our  Content  or  Services.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list -->
+<ul><li><a href="https://wizzardofwellness.com/email-whitelisting/#gmail"><strong>Gmail</strong></a></li><li><strong><a href="https://wizzardofwellness.com/email-whitelisting/#yahoo">AT&amp;T Yahoo Mail</a></strong></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#outlook1"><strong>Outlook 20XX</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#outlook2"><strong>Outlook.com</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#aol"><strong>AOL Mail</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#hotmail"><strong>Hotmail</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#comcast"><strong>Comcast/Comcast Smartzone/Comcast/Xfinity</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#msn"><strong>MSN</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#cox"><strong>Cox Email</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#mac"><strong>Mac OS X Mail App/Apple Mail</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#earthlink"><strong>Earthlink/Earthlink Total Access</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#entourage"><strong>Entourage</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#mcafee"><strong>McAfee</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#thunderbird"><strong>Thunderbird/Netscape 6 or 7</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#netzero"><strong>NetZero</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#norton"><strong>Norton AntiSpam</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#roadrunner"><strong>Road Runner</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#spamassassin"><strong>Spam Assassin</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#verizon"><strong>Verizon</strong></a></li><li><a href="https://wizzardofwellness.com/email-whitelisting/#windowslive"><strong>Windows Live</strong></a></li></ul>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p>Unless  otherwise  noted,  all  Content  and  Services,  whether  publicly  posted  or  privately  transmitted,  as  well  as  all  derivative  works,  are  property  owned,  controlled,  licensed,  or  used  with  permission  by  USA  Patriot  Global,  and/or  its  parents,  subsidiaries  and  affiliates,  or  other  parties  that  have  licensed  or  otherwise  permitted  their  material  to  be  used  by  USA  Patriot  Global.  The  Website,  the  Website’s  logos,  and  all  other  trademarks  appearing  on  the  Content  and  Services  are  trademarks  of  USA  Patriot  Globalare  licensed  or  used  with  permission  of  the  owner  by  USA  Patriot  Global.  You  agree  not  to  display  or  use  such  trademarks  without  USA  Patriot  Global  prior  written  permission.  USA  Patriot  Global  disclaims  any  proprietary  interest  in  trademarks,  service  marks,  logos,  slogans,  domain  names,  and  trade  names  other  than  its  own.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:heading {"level":3} -->
+<h3 id="gmail"><strong>GMAIL</strong></h3>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p>The  Contents  and  Services  are  intended  solely  for  personal,  non-commercial  use  by  the  users  of  the  Services  and  may  not  be  used  except  as  permitted  in  these  Terms  of  Use.  You  may  share  the  Content  with  the  use  of  the  social  media  links  (i.e.,  “Share,”  “Pin  It,”  and  “Tweet”)  provided  on  our  Services.  You  may  also  share  the  Content  via  email  through  the  use  of  our  “Share”  link.  You  may  download  or  copy  the  Content  and  other  downloadable  materials  displayed  on  the  Services  for  your  personal  use  only.  Nothing  contained  on  the  Content  or  Services  grants  or  should  be  construed  as  granting  any  license  or  right  to  use,  implied  or  otherwise,  any  trademarks,  trade  names,  service  marks,  trade  dress,  or  copyrighted  or  other  proprietary  material  displayed  on  these  Contend  and  Services  without  the  prior  written  consent  of  USA  Patriot  Global  or  the  owner  of  such  material.  All  rights  not  expressly  granted  herein  by  USA  Patriot  Global  to  you  are  reserved  by  USA  Patriot  Global  and/or  its  licensors.  Third-party  trade  names,  product  names,  and  logos  contained  in  these  Websites  may  be  the  trademarks  or  registered  trademarks  of  their  respective  owners.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>There are three ways to whitelist Gmail:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>The  information  presented  on  or  through  the  Content  and  Services  is  made  available  solely  for  general  information  purposes.  We  may  update  the  Content  from  time  to  time,  but  the  Content  is  not  necessarily  complete  or  up  to  date.  Any  of  the  material  on  the  Services  may  be  out  of  date  at  any  given  time,  and  We  are  under  no  obligation  to  update  such  material.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p><strong>REMOVE AN EMAIL FROM SPAM FOREVER</strong></p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p><strong>Links  to  Third  Party  Sites</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>If an email is already in your primary folder but&nbsp;<strong>you want to make sure all emails from this sender always end up there, you can create a filter.&nbsp;</strong>To do this, follow these steps:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>This  Site  contains  hyperlinks  to  web  sites  operated  by  persons  other  than  usapatriotglobal.com.  Such  hyperlinks  are  provided  for  your  reference  and  convenience  only.  You  agree  not  to  hold  usapatriotglobal.com  responsible  for  the  content  or  operation  of  such  web  sites.  A  hyperlink  from  this  Site  to  another  website  does  not  imply  that  usapatriotglobal.com  endorses  the  content  on  that  web  site  or  the  operator  or  operations  of  that  site.  You  are  solely  responsible  for  determining  the  extent  to  which  you  may  use  any  content  at  any  other  web  sites  to  which  you  might  link  from  this  Site.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click the&nbsp;<strong>cog icon</strong>&nbsp;in the top-right corner, and then&nbsp;<strong>Settings</strong>&nbsp;from the drop-down menu.</li><li>Click the&nbsp;<strong>Filters tab</strong>&nbsp;then&nbsp;<strong>Create a new filter</strong>.</li><li>Enter the domain of the email you want to whitelist in the&nbsp;<strong>From</strong>&nbsp;field.</li><li>Click&nbsp;<strong>Create filter with this search</strong>.</li><li>In the box titled&nbsp;<strong>When a message arrives that matches this search</strong>&nbsp;select&nbsp;<strong>Never send it to spam</strong>.</li><li>Click the&nbsp;<strong>Create filter</strong>&nbsp;button.</li></ol>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p>If  you  wish  to  make  purchases  from  an  area  of  the  Site,  you  may  be  asked  to  supply  certain  information,  including  credit  card,  debit  card,  or  other  payment  mechanism  information.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":123} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/gmail1-1024x597.gif" alt="" class="wp-image-123"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>You  agree  not  to  hold  usapatriotglobal.com  liable  for  any  loss  or  damage  of  any  sort  incurred  as  a  result  of  any  such  dealings.  You  agree  that  all  information  you  provide  in  connection  with  such  purchase  will  be  accurate,  complete  and  current.  You  agree  to  pay  all  charges  incurred  by  use  of  your  credit  card,  debit  card,  or  other  payment  mechanism  at  the  prices  in  effect  when  such  charges  are  incurred.  You  also  will  pay  any  applicable  taxes  relating  to  any  purchases  you  make.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>If the email is already in your spam folder, mark it as “not spam”. Open the email in your spam folder that you want to whitelist, then click&nbsp;<strong>Report not spam</strong>.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>THE  LIABILITY  OF  usapatriotglobal.com,  ITS  OFFICERS,  DIRECTORS  OR  EMPLOYEES,  TO  YOU  OR  ANY  THIRD  PARTIES  IN  ANY  CIRCUMSTANCE  IS  LIMITED  TO  THE  AMOUNT  OF  MONEY  YOU  TRANSFERRED  TO  usapatriotglobal.com  IN  RELATION  TO  THE  TRANSACTION  GIVING  RISE  TO  SUCH  LIABILITY.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":124} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/gmail.png" alt="" class="wp-image-124"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p><strong>Use  &amp;  Access  to  the  Site</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>If you’re using Gmail tabs (Promotional and Social), click and drag the email you want to whitelist from the tab it’s in to the Primary tab, like so:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>You  shall  be  responsible  for  providing  and  maintaining  the  means  by  which  you  access  the  Site,  which  may  include,  but  is  not  limited  to,  your  personal  computer  or  mobile  device,  connectivity  hardware,  and  telecommunication  lines.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Gmail tabs</li><li>Marking an email as “not spam”</li><li>Creating a filter</li></ol>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p>You  shall  be  responsible  for  all  access  and  service  fees  necessary  to  connect  to  the  Site  and  assume  all  charges  incurred  by  use  of  such  connectivity  services.  You  further  assume  all  risks  associated  with  the  use  and  storage  of  information  on  your  personal  computer,  mobile  device  or  on  any  other  computer  or  device  through  which  you  will  gain  access  to  the  Site  and  the  Services  (hereinafter  referred  to  as  “<strong>Computer</strong>“).</p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":125} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/gmail2.gif" alt="" class="wp-image-125"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>You  represent  and  warrant  that  you  have  implemented  and  plan  to  operate  and  maintain  appropriate  protection  in  relation  to  the  security  and  control  of  your  Computer  and  any  information  and  data  included  therein.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>Once done, you’ll get an alert saying “This conversation has been moved to Primary. Do this for all future messages from sender@theirdomain.com?” Click&nbsp;<strong>Yes</strong>.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>You  agree  that  usapatriotglobal.com  will  not  be  liable  in  any  way  to  you  in  the  event  of  failure  of  or  damage  or  destruction  to  your  Computer  systems,  data  or  records  or  any  part  thereof,  or  for  delays,  losses,  errors  or  omissions  resulting  from  the  failure  or  mismanagement  of  any  telecommunications  or  Computer  equipment  or  software.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":126} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/gmail4.png" alt="" class="wp-image-126"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>You  will  not  in  any  way,  whether  directly  or  indirectly,  expose  usapatriotglobal.com  or  any  of  usapatriotglobal.com  online  service  providers  to  any  computer  virus  or  other  similarly  harmful  or  inappropriate  material  or  device.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:heading {"level":3} -->
+<h3><strong>GMAIL MOBILE APP</strong></h3>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p><strong>Company’s  Right</strong>s</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>In the Gmail app, you have two options:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>usapatriotglobal.com  reserves  the  right  to  suspend  the  operation  of  this  Site  or  any  part  or  sections  of  it  at  any  time  and  no  claims  may  be  entertained  against  the  Company  in  connection  thereto.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Report an email as “not spam” (if the email is in spam).</li><li>Move an email from the promotional inbox to the primary inbox.</li></ol>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p><strong>Force  Majeure</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>If an email is ending up in your spam folder, open the email and click&nbsp;<strong>Report not spam</strong>.&nbsp;</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>You  agree  that  usapatriotglobal.com  will  not  be  liable  in  any  way  to  you  or  to  any  other  person  in  the  event  of  force  majeure  (including,  but  not  limited  to,  the  act  of  any  government  or  legal  authority)  or  for  the  failure  of  or  damage  or  destruction  to  your  computer  systems,  data  or  records  or  any  part  thereof,  or  for  delays,  losses,  errors  or  omissions  resulting  from  the  failure  or  mismanagement  of  any  telecommunications  or  computer  equipment  or  software.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>You can also tap the three dots in the upper right corner and click&nbsp;<strong>Mark important</strong>&nbsp;to give it priority in your inbox (shown in the video below).</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p><strong>Technical  Problems</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":127} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/gail-mobile-485x1024.gif" alt="" class="wp-image-127"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>You  understand  that  while  the  Internet  and  the  World  Wide  Web  are  generally  reliable,  technical  problems  or  other  conditions  may  delay  or  prevent  you  from  accessing  the  Site.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>To move an email from the promotional folder to your primary inbox, open the email and&nbsp;<strong>tap the three dots</strong>&nbsp;in the upper right corner, then tap&nbsp;<strong>Move to &gt; Primary</strong>.</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>usapatriotglobal.com  shall  not  be  liable,  and  you  agree  not  to  hold  or  seek  to  hold  usapatriotglobal.com  or  any  of  its  agents  or  service  providers  liable,  for  any  technical  problems,  system  failures  and  malfunctions,  communication  line  failures,  equipment  or  software  failures  or  malfunctions,  system  access  issues,  system  capacity  issues,  high  Internet  traffic  demand,  security  breaches  and  unauthorized  access,  and  other  similar  computer  problems  and  defects.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:heading {"level":3} -->
+<h3 id="yahoo"><strong>AT&amp;T YAHOO MAIL</strong></h3>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p>usapatriotglobal.com  does  not  represent,  warrant  or  guarantee  that  you  will  be  able  to  access  or  use  the  Site  at  times  or  locations  of  your  choosing,  or  that  usapatriotglobal.com  will  have  adequate  capacity  for  the  Site  as  a  whole  or  in  any  geographic  location.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>AT&amp;T uses the Yahoo! Mail app platform, so whitelisting instructions are the same with both. To whitelist contacts with these email providers:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>usapatriotglobal.com  does  not  represent,  warrant  or  guarantee  that  the  Site  will  provide  uninterrupted  and  error-free  service  usapatriotglobal.com  does  not  make  any  warranties  or  guarantees  with  respect  to  the  Site  and  its  content,  including  but  not  limited  to,  warranties  for  merchantability  or  fitness  for  a  particular  purpose.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click the&nbsp;<strong>contact book</strong>&nbsp;in the right-hand menu.</li><li>At the bottom of the sidebar, click&nbsp;<strong>+Add new contact</strong>.</li><li>Enter the name and email information of the sender you want to whitelist (you can use a business name).</li><li>Click&nbsp;<strong>Save</strong>.</li></ol>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p><strong>Breach</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":128} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/at.gif" alt="" class="wp-image-128"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>Without  limiting  the  foregoing  usapatriotglobal.com  will  not  be  responsible  for  an  impossibility  to  execute  orders  and  requirements  due  to  failures  in  the  operation  of  informational  systems  caused  by  technical  faults,  which  are  beyond  its  control.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:heading {"level":3} -->
+<h3><strong>YAHOO APP</strong></h3>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p>You  agree  to  fully  indemnify,  defend  and  hold  harmless  USA  Patriot  Global,  its  corporate  affiliates  and  their  respective  officers,  directors  and  employees  immediately  upon  demand  from  and  against  all  claims,  demands,  liabilities,  damages,  losses,  costs  and  expenses,  including  legal  fees  and  other  charges  whatsoever,  howsoever  caused,  that  may  arise  as  a  result  of:  (i)  any  breach  of  these  Terms  and  Conditions  by  you  or  (ii)  violation  by  you  of  any  law  or  the  rights  of  any  third  party.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>To add an email address to your mobile Yahoo! Mail contacts (and ensure delivery), follow these steps:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>Without  prejudice  to  any  other  rights  in  these  Terms  and  Conditions,  if  you  breach  in  whole  or  in  part  any  provision  contained  herein,  USA  Patriot  Global  or  any  of  its  corporate  affiliates  which  provides  Services  to  you  reserves  the  right  to  take  such  action  as  it  sees  fit,  including  (but  not  limited  to)  terminating  any  agreement  in  place  with  you,  terminating  or  blocking  the  Services  offered  to  you  via  the  Site  and/or  taking  legal  action  against  you.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Tap the hamburger menu (three stacked lines) in the top left.</li><li>Tap&nbsp;<strong>Settings</strong>&nbsp;and scroll down to&nbsp;<strong>Filters</strong>.</li><li>Select the email account you want to add a filter for.</li><li>Tap the&nbsp;<strong>+&nbsp;</strong>icon to add a new filter.</li><li>Name it anything you want (such as “Whitelist”), then either:<ul><li>Add the exact email you want to whitelist OR;</li><li>Add the @domain.com you want to whitelist to get deliveries from every email at that domain.</li></ul></li><li>Click the&nbsp;<strong>?</strong>&nbsp;icon in the top right to save the filter.</li></ol>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p><strong>DISCLAIMER</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":129} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/yahoo-485x1024.gif" alt="" class="wp-image-129"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p>Due  to  the  number  of  sources  from  which  the  content  presented  on  the  Site  is  obtained,  and  the  inherent  hazards  of  electronic  distribution,  there  may  be  delays,  omissions  or  inaccuracies  in  such  content  and  the  Site.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:heading {"level":3} -->
+<h3 id="outlook1"><strong>OUTLOOK 20XX</strong></h3>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p>THE  CONTENT  AND  THE  WEB  SITE  ARE  PROVIDED  “AS  IS”,  WITHOUT  ANY  WARRANTIES.  USAPATRIOTGLOBAL.COM,  ITS  EMPLOYEES,  OFFICERS,  DIRECTORS,  AFFILIATES,  AGENTS  AND  LICENSORS  CANNOT  AND  DO  NOT  WARRANT  THE  ACCURACY,  COMPLETENESS,  CURRENTNESS,  TIMELINESS,  NONINFRINGEMENT,  TITLE,  MERCHANTABILITY  OR  FITNESS  FOR  A  PARTICULAR  PURPOSE  OF  THE  CONTENT  AVAILABLE  THROUGH  THE  SITE,  OR  THE  SITE  ITSELF,  AND  USAPATRIOTGLOBAL.COM  HEREBY  DISCLAIMS  ANY  SUCH  EXPRESS  OR  IMPLIED  WARRANTIES.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>To whitelist an email in any version of Outlook after 2000:</p>
+<!-- /wp:paragraph -->
 
-<!--  wp:paragraph  -->
-<p>IN  NO  EVENT  SHALL  USAPATRIOTGLOBAL,  ITS  EMPLOYEES,  OFFICERS,  DIRECTORS,  AFFILIATES,  AGENTS  OR  LICENSORS  BE  LIABLE  TO  YOU  OR  TO  ANY  THIRD  PARTY  OR  TO  ANYONE  ELSE  FOR  ANY  KIND  OF  INCIDENTAL  OR  CONSEQUENTIAL  DAMAGE  OR  ANY  OTHER  SIMILAR  DAMAGE  OR  ANY  OTHER  LOSS  OR  INJURY,  RESULTING  DIRECTLY  OR  INDIRECTLY  FROM  USE  OF  THE  SITE,  CAUSED  IN  WHOLE  OR  PART  BY  ITS  NEGLIGENCE  OR  CONTINGENCIES  BEYOND  ITS  CONTROL  IN  PROCURING,  COMPILING,  INTERPRETING,  REPORTING  OR  DELIVERING  THE  SITE  AND  ANY  CONTENT  ON  THE  SITE.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click the blue&nbsp;<strong>Click here to download pictures</strong>&nbsp;information box.</li><li>Click&nbsp;<strong>Add&nbsp;</strong><strong>S</strong><strong>ender to Safe Senders List</strong>. You can also click&nbsp;<strong>Add the Domain @domain.com to Safe Senders List</strong>&nbsp;to whitelist all emails coming from any email address on that domain.</li></ol>
+<!-- /wp:list -->
 
-<!--  wp:paragraph  -->
-<p>IN  NO  EVENT  SHALL    USA  PATRIOT  GLOBAL,  ITS  EMPLOYEES,  OFFICERS,  DIRECTORS,  AFFILIATES,  AGENTS  OR  LICENSORS  BE  LIABLE  TO  YOU  OR  ANY  THIRD  PARTY  OR  ANY  ONE  ELSE  FOR  ANY  DECISION  MADE  OR  ACTION  TAKEN  BY  YOU  IN  RELIANCE  ON  SUCH  CONTENT  ON  THE  SITE  OR  THE  SITE  ITSELF.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:image {"id":130} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/outlook20xx.jpg" alt="" class="wp-image-130"/></figure>
+<!-- /wp:image -->
 
-<!--  wp:paragraph  -->
-<p><strong>NOTIFICATION  OF  CHANGES</strong></p>
-<!--  /wp:paragraph  -->
+<!-- wp:heading {"level":3} -->
+<h3 id="outlook2"><strong>OUTLOOK.COM</strong></h3>
+<!-- /wp:heading -->
 
-<!--  wp:paragraph  -->
-<p>usapatriotglobal.com  reserves  the  right  to  change  these  Terms  and  Conditions  at  any  time  and  your  continued  use  of  the  Website  will  signify  your  acceptance  of  any  adjustment,  improvements  and/or  alterations  to  these  Terms  and  Conditions.  You  are,  therefore,  advised  to  re-read  these  Terms  and  Conditions  on  a  regular  basis.</p>
-<!--  /wp:paragraph  -->
+<!-- wp:paragraph -->
+<p>Open the email you want to whitelist. An alert message should display stating, “Parts of this message have been blocked for your safety.” Click&nbsp;<strong>I trust sender@domain.com. Always show content</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":131} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/outlookcom.jpg" alt="" class="wp-image-131"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Outlook 2003 – 2007</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the&nbsp;<strong>desired sender</strong>.</li><li>Go to the&nbsp;<strong>Actions</strong>&nbsp;option in the top tool bar.</li><li>Select Junk E-mail from the drop down menu.</li><li>Select the&nbsp;<strong>Add Sender&nbsp;</strong>to Safe Senders List option.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Outlook 2000 / Outlook 11</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the&nbsp;<strong>desired sender&nbsp;</strong></li><li>In the From field, right-click the email address</li><li>Click the&nbsp;<strong>Add to Contacts</strong>&nbsp;link in the menu</li><li>Click the&nbsp;<strong>OK</strong>&nbsp;button</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Outlook 2010 / Outlook 2013</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open Microsoft Outlook 2010 / 2013</li><li>In the home tab, click the&nbsp;<strong>Junk</strong>&nbsp;drop down menu</li><li>Then click&nbsp;<strong>Junk Email Options</strong></li><li>Navigate to the&nbsp;<strong>Safe Recipients</strong>&nbsp;tab</li><li>Click the&nbsp;<strong>Add</strong>&nbsp;button</li><li>Type in the email address or domain you want to whitelist, then click okay</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Outlook Express 6</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the&nbsp;<strong>desired sender&nbsp;</strong></li><li>In the From field, right-click the email address</li><li>Click the<strong>&nbsp;Add to Address Book</strong>&nbsp;link in the menu</li><li>Click the&nbsp;<strong>OK</strong>&nbsp;button</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>OUTLOOK MOBILE</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On Outlook mobile, you can add senders to your focused inbox to ensure delivery of their emails. Here’s how:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open the email you want to whitelist.</li><li>Tap the&nbsp;<strong>three dots</strong>&nbsp;in the top right of the screen (not the dots inside the email).</li><li>Tap&nbsp;<strong>Move to Focused Inbox</strong>.</li><li>In the popup box, tap the radius button for&nbsp;<strong>“Move this and all future messages”</strong>&nbsp;then tap&nbsp;<strong>MOVE TO FOLDER</strong></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="aol"><strong>AOL MAIL</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To whitelist emails on AOL:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open the email you would like to whitelist.&nbsp;</li><li>Click their email contact name and address, then click&nbsp;<strong>Add Contact</strong>.&nbsp;</li><li>Enter their first and last name (company name works).</li><li>Click&nbsp;<strong>Add Contact</strong>&nbsp;again. That’s it!</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":132} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/aol.gif" alt="" class="wp-image-132"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="hotmail"><strong>HOTMAIL</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the&nbsp;<strong>desired sender</strong>.</li><li>Click&nbsp;<strong>Mark as safe</strong>&nbsp;next to the From name and address.</li><li>Now click&nbsp;<strong>Add contact</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="comcast"><strong>COMCAST</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click Preferences from the menu.</li><li>Click Restrict Incoming Email.</li><li>Click Yes to Enable Email Controls.</li><li>Click Allow email from addresses listed below.</li><li>Enter [wlemail] you want to whitelist.</li><li>Click Add.</li><li>Click Update to finish.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>Comcast SmartZone</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li><strong>Click Address Book.</strong></li><li>Click “New” and choose “New Contact”.</li><li><strong>Add the email address and any additional information.</strong></li><li>Click Save.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>COMCAST/XFINITY</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have an email account from Xfinity (formerly Comcast), here’s how to whitelist a contact:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Sign into your My XFINITY account.</li><li>At the top right, click the&nbsp;<strong>Mail icon</strong>&nbsp;to get to your inbox.</li><li>Click the&nbsp;<strong>Address Book tab</strong>.</li><li>Click&nbsp;<strong>+Create Contact</strong>&nbsp;in the top menu (looks like a head silhouette with a plus sign).</li><li>Add the sender’s email address.</li><li>Click&nbsp;<strong>Save</strong>&nbsp;to save and whitelist the contact.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":133} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/xfinity.gif" alt="" class="wp-image-133"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="msn"><strong>MSN</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click on&nbsp;<strong>Help &amp; Settings&nbsp;</strong></li><li>Click&nbsp;<strong>Email Settings&nbsp;</strong></li><li>Click on&nbsp;<strong>Safe List&nbsp;</strong></li><li>In Add an item to this list, type the specific email address or use @xxxx.com to whitelist the domain (note: xxxx has to be replaced with the domain)</li><li>Click&nbsp;<strong>Add</strong></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="cox"><strong>Cox.net Email</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li><strong>Go to WebMail Inbox window.</strong></li><li><strong>Click “Preferences”.</strong></li><li><strong>Under General Email Preferences, click Blocked Senders.</strong></li><li><strong>Type in the sender or domain you wish to allow in the Exceptions List.</strong></li><li><strong>Click Add.</strong></li><li><strong>Click Save.</strong></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="mac"><strong>MAC OS X MAIL APP</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To whitelist all emails from a domain in the Mail app for Mac OS X or macOS:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>In the top menu, click&nbsp;<strong>Mail &gt; Preferences</strong>.</li><li>Click the&nbsp;<strong>Rules&nbsp;</strong>tab.</li><li>Click&nbsp;<strong>Add Rule</strong>.</li><li>Enter a whitelist name in the&nbsp;<strong>Description</strong>&nbsp;field, such as “Whitelist: sumo.com” to create the new rule.</li><li>For conditions, set the first dropdown menu item to&nbsp;<strong>any</strong>. It should say:&nbsp;<strong>If any of the following conditions are met</strong>.</li><li>In the following dropdown menus, select&nbsp;<strong>From</strong>&nbsp;in the first field and&nbsp;<strong>Ends with</strong>&nbsp;in the second field.</li><li>In the text field following&nbsp;<strong>Ends with</strong>, enter the domain name that you want to whitelist. Include “@” before the domain name to make the filter specific—for example, to whitelist all mail from the sumo.com domain, but not mail that might come from one of its subdomains (such as @subdomain.sumo.com), type “@sumo.com” into the field.</li><li>Click the&nbsp;<strong>plus sign</strong>&nbsp;next to the last condition to add another domain with the same criteria if you want to whitelist more domains.</li><li>In the&nbsp;<strong>Perform the following actions</strong>&nbsp;section, set the three dropdown items to:&nbsp;<strong>Move Message</strong>, to the mailbox:&nbsp;<strong>Inbox</strong>&nbsp;(or any target folder you want).</li><li>Click&nbsp;<strong>OK</strong>&nbsp;to save the rule.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>APPLE MAIL</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Apple Mail doesn’t have the option to whitelist like some other email providers do. Instead, all you can do is mark something as “Not Junk” and it will be sent to your inbox. Here’s how:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open your Mail app and go to the&nbsp;<strong>Mailboxes</strong>&nbsp;screen.</li><li>Select the&nbsp;<strong>Junk</strong>&nbsp;folder.</li><li>Find the email you want to whitelist and swipe left to see options.</li><li>Tap the&nbsp;<strong>More</strong>&nbsp;button.</li><li>Tap the&nbsp;<strong>Mark</strong>&nbsp;button.</li><li>Tap the&nbsp;<strong>Mark as Not Junk</strong>&nbsp;button.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":134} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/applemail-577x1024.gif" alt="" class="wp-image-134"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":135} -->
+<figure class="wp-block-image"><img src="https://wizzardofwellness.com/wp-content/uploads/2021/01/apple.gif" alt="" class="wp-image-135"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="earthlink"><strong>EarthLink</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click on&nbsp;<strong>Address Book</strong>&nbsp;(it’s over on the left, below your Folders).</li><li>When your Address Book opens, click the&nbsp;<strong>Add new contact</strong>.</li><li>On the Add Contact screen, find the&nbsp;<strong>Internet Information</strong>&nbsp;box.</li><li>Enter the&nbsp;<strong>desired address</strong>&nbsp;into the top Email box.</li><li>Click&nbsp;<strong>Save</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Earthlink Total Access</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the&nbsp;<strong>desired sender</strong></li><li>In the From field, right-click the email address</li><li>Click the&nbsp;<strong>Add to Address Book</strong>&nbsp;link in the menu</li><li>Click the&nbsp;<strong>Ok</strong>&nbsp;button</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="entourage"><strong>Entourage</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open the email.</li><li>Right-click the sender’s email address.</li><li>Select “Add to Address Book” in the short-cut menu.</li><li>Verify the sender’s contact details.</li><li>Click Save.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="mcafee"><strong>McAfee</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Click the&nbsp;<strong>Allow/Deny</strong>&nbsp;menu option in the Control Console</li><li>Enter the recipient’s email address in the&nbsp;<strong>Add Entrys&nbsp;</strong>field in the<strong>&nbsp;Allow List.</strong></li><li>You can also add a contact’s domain (e.g. whatever comes after the @ symbol) to allow anyone from that company.</li><li>Click&nbsp;<strong>Save</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="thunderbird"><strong>Thunderbird / Netscape 6 or 7</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the&nbsp;<strong>desired sender</strong>.</li><li>In the From field, right-click the email address.</li><li>Click the&nbsp;<strong>Add to Address Book</strong>&nbsp;link in the menu.</li><li>Click the&nbsp;<strong>OK</strong>&nbsp;button.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="netzero"><strong>NetZero</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Go to&nbsp;<strong>Options</strong>&nbsp;and click&nbsp;<strong>Safe List</strong>.</li><li>Type the trusted domain or address in Add Address to Safe List.</li><li>Click&nbsp;<strong>Add</strong>&nbsp;then click&nbsp;<strong>Save</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="norton"><strong>Norton AntiSpam</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Go to the&nbsp;<strong>Status &amp; Settings tab</strong>&nbsp;and click&nbsp;<strong>AntiSpam</strong>.</li><li>Click&nbsp;<strong>Configure</strong>&nbsp;and go to the&nbsp;<strong>Allowed List tab</strong>.</li><li>Click&nbsp;<strong>Add</strong>&nbsp;and type the trusted address or domain in the Email Address box.</li><li>Click&nbsp;<strong>OK</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="roadrunner"><strong>Road Runner</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open&nbsp;<strong>Junk Mail folder</strong>.</li><li>Select emails you wish to add to your whitelist.</li><li>Click&nbsp;<strong>Mark as Not Spam</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="spamassassin"><strong>Spam Assassin</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>In your hard drive, find your Spam Assassin folder. Click the folder.</li><li>Open the file named&nbsp;<strong>user_prefs</strong>&nbsp;with a text editor or Notepad. (If the file does not exist you can create it using the instructions on Spam Assassin’s website.)</li><li>Make a new line with the text whitelist_from and the trusted address or domain you wish to add.</li><li>Save the file and close it.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="verizon"><strong>Verizon</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Go to&nbsp;<strong>Options</strong>&nbsp;and select&nbsp;<strong>Block Senders</strong>.</li><li>In the Safe List, type your trusted address or domain.</li><li>Click&nbsp;<strong>OK</strong>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="windowslive"><strong>Windows Live</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Open a message from the<strong>&nbsp;desired sender</strong></li><li>Click&nbsp;<strong>Mark as safe&nbsp;</strong>next to the From name and address</li><li>Now click&nbsp;<strong>Add contact</strong></li></ol>
+<!-- /wp:list -->
