@@ -18,25 +18,9 @@ wg_about_us_file_content = wg_about_us_file.read()
 
 def in_page_replacer(page):
 
-    # privacy doc section
-    wg_file_path = Path.cwd()/(f'wg {page}.txt')
-    new_file_path = Path.cwd()/(f'new {page}.txt')
-
-
-wg_terms_file_content = wg_terms_file_content.replace('Wise Gazette', site_name)
-wg_terms_file_content = wg_terms_file_content.replace('wisegazette', lover_nospace_site_name)
-wg_terms_file_content = wg_terms_file_content.replace('WISEGAZETTE', upper_nospace_site_name)
-wg_terms_file_content = wg_terms_file_content.replace('WISE GAZETTE', upper_site_name)
-
-def in_page_replacer(page):
-
     wg_file_path = Path.cwd()/(f'wg {page}.txt')
     wg_file = open(wg_file_path, 'r')
     wg_file_content = wg_file.read()
-
-    wg_file = open(wg_file_path, 'r')
-    wg_file_content = wg_file.read()
-
 
     wg_file_content = wg_file_content.replace('Wise Gazette', site_name)
     wg_file_content = wg_file_content.replace('wisegazette', lover_nospace_site_name)
@@ -57,19 +41,6 @@ wg_terms_file_content = wg_terms_file_content.replace('WISE GAZETTE', upper_site
 """    new_file = open(new_file_path, 'w')
     new_file.write(f'{page}\n')
     new_file.write(wg_file_content)"""
-
-while True:
-    doc = pyinputplus.inputMenu(['Contact Us', 'About Us Health', 'About Us Non Health', 'Privacy Policy', 'Terms And Conditions', 'Footer'], 'Pick which doc u want copy to clipboard:\n', numbered=True)
-    in_page_replacer(doc)
-    print(f'\n{doc} modified text copied to clipboard\n')
-
-"""in_page_replacer('Contact Us')
-in_page_replacer('About Us')
-in_page_replacer('Privacy Policy')
-in_page_replacer('Terms Of Conditions')
-in_page_replacer('Footer')"""
-
-print('\ndone')
 
 
 while True:
